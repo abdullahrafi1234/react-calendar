@@ -1,0 +1,14 @@
+.react-calendar {
+    width: 100%;
+    background-color: red;
+    
+}
+
+.react-calendar__navigation__prev2-button{
+    background-color: green  !important
+}
+
+.react-calendar__navigation__prev-button{
+    background-color: purple !important ;
+    
+}
